@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2508.17281",
+    "url": "https://huggingface.co/papers/2508.17281",
+    "title": "From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users",
+    "date": "2025-10-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2605.02964",
+    "url": "https://huggingface.co/papers/2605.02964",
+    "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+    "date": "2026-05-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2602.21320",
+    "url": "https://huggingface.co/papers/2602.21320",
+    "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+    "date": "2026-02-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.12190",
+    "url": "https://arxiv.org/abs/2610.12190",
+    "title": "DataSense-Bench: The First Step Toward an AI Scientist",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.12183",
+    "url": "https://arxiv.org/abs/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.12299",
+    "url": "https://huggingface.co/papers/2610.12299",
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "2610.11959",
+    "url": "https://huggingface.co/papers/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

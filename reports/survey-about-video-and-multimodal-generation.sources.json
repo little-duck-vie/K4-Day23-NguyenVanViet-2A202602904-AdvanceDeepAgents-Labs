@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2512.23576",
+    "url": "https://huggingface.co/papers/2512.23576",
+    "title": "LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation",
+    "date": "2025-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2609.15863",
+    "url": "https://huggingface.co/papers/2609.15863",
+    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+    "date": "2026-09-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2610.11993",
+    "url": "https://arxiv.org/abs/2610.11993",
+    "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2511.18780",
+    "url": "https://huggingface.co/papers/2511.18780",
+    "title": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.11736",
+    "url": "https://arxiv.org/abs/2610.11736",
+    "title": "Towards Unified Evaluation of Prompt Enhancers for Video Generation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.10400",
+    "url": "https://arxiv.org/abs/2610.10400",
+    "title": "Self-correction Optimization for Interleaved Multimodal Generation",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2610.12299",
+    "url": "https://huggingface.co/papers/2610.12299",
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "2610.12461",
+    "url": "https://huggingface.co/papers/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2507.21513",
+    "url": "https://arxiv.org/abs/2507.21513",
+    "title": "What Does it Mean for a Neural Network to Learn a World Model?",
+    "date": "2025-07-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2309.09777",
+    "url": "https://huggingface.co/papers/2309.09777",
+    "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+    "date": "2023-09-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2606.12783",
+    "url": "https://arxiv.org/abs/2606.12783",
+    "title": "A Tutorial on World Models and Physical AI",
+    "date": "2026-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2503.10480",
+    "url": "https://huggingface.co/papers/2503.10480",
+    "title": "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning",
+    "date": "2025-03-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2509.09737",
+    "url": "https://huggingface.co/papers/2509.09737",
+    "title": "World Modeling with Probabilistic Structure Integration",
+    "date": "2025-09-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2509.07996",
+    "url": "https://huggingface.co/papers/2509.07996",
+    "title": "3D and 4D World Modeling: A Survey",
+    "date": "2025-09-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "n.d.",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2610.12464",
+    "url": "https://arxiv.org/abs/2610.12464",
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]

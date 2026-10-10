@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.11696",
+    "url": "https://arxiv.org/abs/2610.11696",
+    "title": "A 3D Characterization Framework for Intelligent Sequential Decision Making",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.11502",
+    "url": "https://arxiv.org/abs/2610.11502",
+    "title": "Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.11345",
+    "url": "https://arxiv.org/abs/2610.11345",
+    "title": "SynCo: Data Synthesis Co-Training for Self-Evolving LLMs via Multi-Agent Reinforcement Learning",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2504.20834",
+    "url": "https://huggingface.co/papers/2504.20834",
+    "title": "Reinforcement Learning for LLM Reasoning Under Memory Constraints",
+    "date": "2025-04-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2506.02177",
+    "url": "https://huggingface.co/papers/2506.02177",
+    "title": "Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2505.17652",
+    "url": "https://huggingface.co/papers/2505.17652",
+    "title": "Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective",
+    "date": "2025-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2506.14965",
+    "url": "https://huggingface.co/papers/2506.14965",
+    "title": "Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective",
+    "date": "2025-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2610.11959",
+    "url": "https://huggingface.co/papers/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

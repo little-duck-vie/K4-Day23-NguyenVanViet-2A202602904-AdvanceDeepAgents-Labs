@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search",
+    "n": 1
+  },
+  {
+    "id": "2501.09223",
+    "url": "https://huggingface.co/papers/2501.09223",
+    "title": "Foundations of Large Language Models",
+    "date": "2026-10-08",
+    "source": "hf-daily",
+    "n": 2
+  },
+  {
+    "id": "2610.09941",
+    "url": "https://arxiv.org/abs/2610.09941",
+    "title": "Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions",
+    "date": "2026-10-07",
+    "source": "arxiv",
+    "n": 3
+  }
+]
